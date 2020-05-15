@@ -1,0 +1,835 @@
+[
+ {
+   "Product": "Amla berries, dried",
+   "Manufacturer - product label - country of origin": "India",
+   "Procured in": "India",
+   "Antioxidant content in mmol per 100g": 261.53,
+   "Comment": 3
+ },
+ {
+   "Product": "Amla, Indian Gooseberries, whole, canned",
+   "Manufacturer - product label - country of origin": "Roopaks, Ajmal Khan, N. Dehli",
+   "Procured in": "India",
+   "Antioxidant content in mmol per 100g": 13.27,
+   "Comment": 3
+ },
+ {
+   "Product": "Amla, syrup from canned Indian Gooseberries",
+   "Manufacturer - product label - country of origin": "Roopaks, Ajmal Khan, N. Dehli",
+   "Procured in": "India",
+   "Antioxidant content in mmol per 100g": 29.7,
+   "Comment": 3
+ },
+ {
+   "Product": "Bilberries, wild",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 7.57,
+   "Comment": 3
+ },
+ {
+   "Product": "Bilberries, wild",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 8.55,
+   "Comment": 4
+ },
+ {
+   "Product": "Bilberries, wild, dried",
+   "Manufacturer - product label - country of origin": "The Norwegian Crop Research Institute, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 48.32,
+   "Comment": 5
+ },
+ {
+   "Product": "Blackberries, cultivated",
+   "Manufacturer - product label - country of origin": "  ",
+   "Procured in": "USA",
+   "Antioxidant content in mmol per 100g": 4.02,
+   "Comment": 6
+ },
+ {
+   "Product": "Blackberries, cultivated",
+   "Manufacturer - product label - country of origin": "Solabær, Sola, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 4.13,
+   "Comment": 3
+ },
+ {
+   "Product": "Blackberries, cultivated",
+   "Manufacturer - product label - country of origin": "  ",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 6.14,
+   "Comment": 3
+ },
+ {
+   "Product": "Blackberries, cultivated",
+   "Manufacturer - product label - country of origin": "Belgium",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 3.84,
+   "Comment": 3
+ },
+ {
+   "Product": "Blackberries, cultivated, canned, drained",
+   "Manufacturer - product label - country of origin": "S&W Fine Food, USA",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 2.34,
+   "Comment": 3
+ },
+ {
+   "Product": "Blackberries, cultivated, frozen",
+   "Manufacturer - product label - country of origin": "Local grocery",
+   "Procured in": "USA",
+   "Antioxidant content in mmol per 100g": 4.06,
+   "Comment": 6
+ },
+ {
+   "Product": "Blackberries, cultivated, frozen",
+   "Manufacturer - product label - country of origin": "Wholesaler",
+   "Procured in": "USA",
+   "Antioxidant content in mmol per 100g": 3.89,
+   "Comment": 6
+ },
+ {
+   "Product": "Blackberries, cultivated, with sugar",
+   "Manufacturer - product label - country of origin": "Findus, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 4.76,
+   "Comment": 3
+ },
+ {
+   "Product": "Blackberries, Dessert Berries, without sugar, frozen",
+   "Manufacturer - product label - country of origin": "Norske Dessertbær, Norway (berries from Poland)",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 5.98,
+   "Comment": 3
+ },
+ {
+   "Product": "Blackberries, dried, \"Loch Ness\"",
+   "Manufacturer - product label - country of origin": "The Norwegian Crop Research Institute, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 37.08,
+   "Comment": 5
+ },
+ {
+   "Product": "Blackberries, wild",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 6.13,
+   "Comment": 4
+ },
+ {
+   "Product": "Blackcurrant, cultivated",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 5.49,
+   "Comment": 3
+ },
+ {
+   "Product": "Blackcurrant, cultivated, \"Ben Tiran\"",
+   "Manufacturer - product label - country of origin": "Norwegian University of Life Sciences",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 9.09,
+   "Comment": 5
+ },
+ {
+   "Product": "Blackcurrant, syrup (100%), with sugar (undiluted)",
+   "Manufacturer - product label - country of origin": "Lerum, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 2.38,
+   "Comment": 3
+ },
+ {
+   "Product": "Blackcurrant, syrup (40%), with sugar (undiluted)",
+   "Manufacturer - product label - country of origin": "Stabburet, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 2.73,
+   "Comment": 3
+ },
+ {
+   "Product": "Blackcurrant, syrup (54%), with sugar (undiluted)",
+   "Manufacturer - product label - country of origin": "Røra fabrikker, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 2.98,
+   "Comment": 3
+ },
+ {
+   "Product": "Blackcurrant, syrup, without sugar (undiluted)",
+   "Manufacturer - product label - country of origin": "Helios, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 4.15,
+   "Comment": 3
+ },
+ {
+   "Product": "Blueberries",
+   "Manufacturer - product label - country of origin": "Poland",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 9.24,
+   "Comment": 4
+ },
+ {
+   "Product": "Blueberries, canned, heavy syrup, drained liquid",
+   "Manufacturer - product label - country of origin": "S&W",
+   "Procured in": "USA",
+   "Antioxidant content in mmol per 100g": 2.53,
+   "Comment": 6
+ },
+ {
+   "Product": "Blueberries, canned, heavy syrup, drained solids",
+   "Manufacturer - product label - country of origin": "S&W",
+   "Procured in": "USA",
+   "Antioxidant content in mmol per 100g": 2.79,
+   "Comment": 6
+ },
+ {
+   "Product": "Blueberries, canned, light syrup, drained liquid",
+   "Manufacturer - product label - country of origin": "Oregon",
+   "Procured in": "USA",
+   "Antioxidant content in mmol per 100g": 1.65,
+   "Comment": 6
+ },
+ {
+   "Product": "Blueberries, canned, light syrup, drained solids",
+   "Manufacturer - product label - country of origin": "Oregon",
+   "Procured in": "USA",
+   "Antioxidant content in mmol per 100g": 2.01,
+   "Comment": 6
+ },
+ {
+   "Product": "Blueberries, cultivated",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 1.92,
+   "Comment": 4
+ },
+ {
+   "Product": "Blueberries, cultivated",
+   "Manufacturer - product label - country of origin": "  ",
+   "Procured in": "USA",
+   "Antioxidant content in mmol per 100g": 1.85,
+   "Comment": 6
+ },
+ {
+   "Product": "Blueberries, cultivated",
+   "Manufacturer - product label - country of origin": "  ",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 1.26,
+   "Comment": 3
+ },
+ {
+   "Product": "Blueberries, cultivated, \"Aron\"",
+   "Manufacturer - product label - country of origin": "Norwegian University of Life Sciences",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 3.79,
+   "Comment": 5
+ },
+ {
+   "Product": "Blueberries, cultivated, \"Hardyblue\"",
+   "Manufacturer - product label - country of origin": "Norwegian University of Life Sciences",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 3.96,
+   "Comment": 5
+ },
+ {
+   "Product": "Blueberries, Dessert Berries, without sugar, frozen",
+   "Manufacturer - product label - country of origin": "Norske Dessertbær, Norway (berries from Poland)",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 7.13,
+   "Comment": 3
+ },
+ {
+   "Product": "Blueberries, dried",
+   "Manufacturer - product label - country of origin": "USA, Eurocompany srl, Godo, Italy",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 1.32,
+   "Comment": 3
+ },
+ {
+   "Product": "Blueberry, jam",
+   "Manufacturer - product label - country of origin": "Heistad, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 2.68,
+   "Comment": 3
+ },
+ {
+   "Product": "Blueberry, jam",
+   "Manufacturer - product label - country of origin": "Eldorado, Norgesgruppen, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 2.88,
+   "Comment": 3
+ },
+ {
+   "Product": "Blueberry, jam, Naturlig lett",
+   "Manufacturer - product label - country of origin": "Nora, Stabburet, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 4.71,
+   "Comment": 3
+ },
+ {
+   "Product": "Blueberry, jam, Noras hjemmelagde",
+   "Manufacturer - product label - country of origin": "Nora, Stabburet, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 3.6,
+   "Comment": 3
+ },
+ {
+   "Product": "Blueberry, jam, Wild Blueberry Spread",
+   "Manufacturer - product label - country of origin": "Meridian Foods, UK",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 1.44,
+   "Comment": 3
+ },
+ {
+   "Product": "Blueberry, syrup (undiluted)",
+   "Manufacturer - product label - country of origin": "Hervik, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 2.41,
+   "Comment": 3
+ },
+ {
+   "Product": "Blueberry, syrup, without sugar (undiluted)",
+   "Manufacturer - product label - country of origin": "Helios, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 5.91,
+   "Comment": 3
+ },
+ {
+   "Product": "Chokeberries, black, wild",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 13.48,
+   "Comment": 4
+ },
+ {
+   "Product": "Cloudberries, wild",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 2.53,
+   "Comment": 4
+ },
+ {
+   "Product": "Cloudberries, wild, frozen",
+   "Manufacturer - product label - country of origin": "Sweden",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 3.44,
+   "Comment": 3
+ },
+ {
+   "Product": "Cranberries, cultivated",
+   "Manufacturer - product label - country of origin": "  ",
+   "Procured in": "USA",
+   "Antioxidant content in mmol per 100g": 3.29,
+   "Comment": 6
+ },
+ {
+   "Product": "Cranberries, dried",
+   "Manufacturer - product label - country of origin": "NaturataSpielberger AG",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 2.03,
+   "Comment": 3
+ },
+ {
+   "Product": "Cranberries, dried",
+   "Manufacturer - product label - country of origin": "USA, Eurocompany srl, Godo, Italy",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 1.9,
+   "Comment": 3
+ },
+ {
+   "Product": "Cranberries, dried",
+   "Manufacturer - product label - country of origin": "Safeway, USA",
+   "Procured in": "USA",
+   "Antioxidant content in mmol per 100g": 1.64,
+   "Comment": 3
+ },
+ {
+   "Product": "Cranberry craisins cherry flavor",
+   "Manufacturer - product label - country of origin": "Ocean Spray",
+   "Procured in": "USA",
+   "Antioxidant content in mmol per 100g": 1.47,
+   "Comment": 3
+ },
+ {
+   "Product": "Cranberry, syrup, without sugar (undiluted)",
+   "Manufacturer - product label - country of origin": "Corona, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 1.93,
+   "Comment": 3
+ },
+ {
+   "Product": "Crowberries",
+   "Manufacturer - product label - country of origin": "Skjervøy, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 7.89,
+   "Comment": 3
+ },
+ {
+   "Product": "Crowberries",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 2.48,
+   "Comment": 4
+ },
+ {
+   "Product": "Crowberries",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 8.45,
+   "Comment": 4
+ },
+ {
+   "Product": "Crowberries, frozen",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 10.8,
+   "Comment": 4
+ },
+ {
+   "Product": "Crowberry, syrup (undiluted)",
+   "Manufacturer - product label - country of origin": "Skjervøy, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 2.05,
+   "Comment": 3
+ },
+ {
+   "Product": "Crowberry, syrup, juice of peel (undiluted)",
+   "Manufacturer - product label - country of origin": "Midnattsol Produkter, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 4.5,
+   "Comment": 3
+ },
+ {
+   "Product": "Crowberry, syrup, without sugar (undiluted)",
+   "Manufacturer - product label - country of origin": "Corona, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 2.95,
+   "Comment": 3
+ },
+ {
+   "Product": "Crowberry, syrup, without sugar (undiluted)",
+   "Manufacturer - product label - country of origin": "Midnattsol Produkter, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 5.9,
+   "Comment": 3
+ },
+ {
+   "Product": "Dog Rose",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 25.86,
+   "Comment": 4
+ },
+ {
+   "Product": "Dog Rose",
+   "Manufacturer - product label - country of origin": "Lørenskog, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 12.65,
+   "Comment": 4
+ },
+ {
+   "Product": "Dog Rose",
+   "Manufacturer - product label - country of origin": "Setcases in Spain",
+   "Procured in": "Spain",
+   "Antioxidant content in mmol per 100g": 14.16,
+   "Comment": 4
+ },
+ {
+   "Product": "Dog Rose",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 34.49,
+   "Comment": 4
+ },
+ {
+   "Product": "Dog Rose, dried, whole",
+   "Manufacturer - product label - country of origin": "Helios, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 78.09,
+   "Comment": 3
+ },
+ {
+   "Product": "Dog Rose, powder",
+   "Manufacturer - product label - country of origin": "Chile",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 54.3,
+   "Comment": 3
+ },
+ {
+   "Product": "Dog Rose, powder, HybenMax",
+   "Manufacturer - product label - country of origin": "Fennomer Norge, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 20.82,
+   "Comment": 3
+ },
+ {
+   "Product": "Dog Rose, powder, Hyben?Vital",
+   "Manufacturer - product label - country of origin": "SunVita A/S, Denmark",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 28.49,
+   "Comment": 3
+ },
+ {
+   "Product": "Dog Roseshell, flour",
+   "Manufacturer - product label - country of origin": "Risenta, Finland",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 75.84,
+   "Comment": 3
+ },
+ {
+   "Product": "Elderberries, black (berries from common elder), wild",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 5.24,
+   "Comment": 4
+ },
+ {
+   "Product": "Elderberries, cultivated",
+   "Manufacturer - product label - country of origin": "Norwegian University of Life Sciences",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 3.37,
+   "Comment": 5
+ },
+ {
+   "Product": "Elderberry flowerdrink, concentrate",
+   "Manufacturer - product label - country of origin": "  ",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 0.06,
+   "Comment": 3
+ },
+ {
+   "Product": "Elderberry, syrup, without sugar (undiluted)",
+   "Manufacturer - product label - country of origin": "Helios, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 6.31,
+   "Comment": 5
+ },
+ {
+   "Product": "Goji Berries, organic, dried",
+   "Manufacturer - product label - country of origin": "Natural Food Market Erewhon, grown in China",
+   "Procured in": "USA",
+   "Antioxidant content in mmol per 100g": 4.31,
+   "Comment": null
+ },
+ {
+   "Product": "Gooseberries, cultivated",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 1.45,
+   "Comment": 3
+ },
+ {
+   "Product": "Juice, blackberry, juice/syrup from canned blackberries",
+   "Manufacturer - product label - country of origin": "Nora, Stabburet, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 1.27,
+   "Comment": 3
+ },
+ {
+   "Product": "Juice, cranberry",
+   "Manufacturer - product label - country of origin": "Tine, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 0.75,
+   "Comment": 3
+ },
+ {
+   "Product": "Juice, cranberry",
+   "Manufacturer - product label - country of origin": "Ocean Spray",
+   "Procured in": "USA",
+   "Antioxidant content in mmol per 100g": 1,
+   "Comment": 3
+ },
+ {
+   "Product": "Juice, cranberry, juice cocktail",
+   "Manufacturer - product label - country of origin": "Roche Bros",
+   "Procured in": "USA",
+   "Antioxidant content in mmol per 100g": 0.96,
+   "Comment": 3
+ },
+ {
+   "Product": "Juice, cranberry, juice cocktail",
+   "Manufacturer - product label - country of origin": "Stop&Shop",
+   "Procured in": "USA",
+   "Antioxidant content in mmol per 100g": 0.86,
+   "Comment": 3
+ },
+ {
+   "Product": "Juice, cranberry, juice cocktail",
+   "Manufacturer - product label - country of origin": "Ocean Spray",
+   "Procured in": "USA",
+   "Antioxidant content in mmol per 100g": 1.01,
+   "Comment": 6
+ },
+ {
+   "Product": "Juice, Mana Blå, grape, blueberry, aronia, cherry",
+   "Manufacturer - product label - country of origin": "Tine, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 2,
+   "Comment": 3
+ },
+ {
+   "Product": "Juice, Mana Gul, dog rose and orange",
+   "Manufacturer - product label - country of origin": "Tine, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 2.57,
+   "Comment": 3
+ },
+ {
+   "Product": "Juice, Mana Rød, cranberries, raspberries and grapes",
+   "Manufacturer - product label - country of origin": "Tine, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 0.67,
+   "Comment": 3
+ },
+ {
+   "Product": "Juice, raspberry",
+   "Manufacturer - product label - country of origin": "Bræmhults, Sweden",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 0.78,
+   "Comment": 3
+ },
+ {
+   "Product": "Juice, strawberry",
+   "Manufacturer - product label - country of origin": "Bræmhults, Sweden",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 0.43,
+   "Comment": 3
+ },
+ {
+   "Product": "Raspberries, cultivated",
+   "Manufacturer - product label - country of origin": "  ",
+   "Procured in": "USA",
+   "Antioxidant content in mmol per 100g": 2.33,
+   "Comment": 6
+ },
+ {
+   "Product": "Raspberries, cultivated",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 3.35,
+   "Comment": 3
+ },
+ {
+   "Product": "Raspberries, Dessert Berries, without sugar, frozen",
+   "Manufacturer - product label - country of origin": "Norske Dessertbær, Norway (berries from Poland)",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 3.46,
+   "Comment": 3
+ },
+ {
+   "Product": "Raspberries, wild",
+   "Manufacturer - product label - country of origin": "Malawi",
+   "Procured in": "Malawi",
+   "Antioxidant content in mmol per 100g": 1.73,
+   "Comment": 4
+ },
+ {
+   "Product": "Raspberries, wild",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 3.97,
+   "Comment": 4
+ },
+ {
+   "Product": "Raspberries, wild",
+   "Manufacturer - product label - country of origin": "Fruitmaster, Netherlands",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 2.5,
+   "Comment": 3
+ },
+ {
+   "Product": "Raspberry, jam",
+   "Manufacturer - product label - country of origin": "Nora, Stabburet, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 1.26,
+   "Comment": 3
+ },
+ {
+   "Product": "Raspberry, jam,",
+   "Manufacturer - product label - country of origin": "Eldorado, Norgesgruppen, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 1.12,
+   "Comment": 3
+ },
+ {
+   "Product": "Raspberry, jam, Bestemor Lerum Bringebærsyltetøy",
+   "Manufacturer - product label - country of origin": "Lerum Konserves, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 1.4,
+   "Comment": 3
+ },
+ {
+   "Product": "Raspberry, jam, light",
+   "Manufacturer - product label - country of origin": "Nora, Stabburet, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 1.27,
+   "Comment": 3
+ },
+ {
+   "Product": "Red whortleberries, cultivated, dried",
+   "Manufacturer - product label - country of origin": "The Norwegian Crop Research Institute, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 32.28,
+   "Comment": 5
+ },
+ {
+   "Product": "Red whortleberries, frozen",
+   "Manufacturer - product label - country of origin": "Poland",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 4.98,
+   "Comment": 3
+ },
+ {
+   "Product": "Red whortleberries, syrup, without sugar (undiluted)",
+   "Manufacturer - product label - country of origin": "Corona, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 2.34,
+   "Comment": 3
+ },
+ {
+   "Product": "Red whortleberries, wild",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 5,
+   "Comment": 4
+ },
+ {
+   "Product": "Redcurrant, cultivated",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 1.61,
+   "Comment": 3
+ },
+ {
+   "Product": "Redcurrant, Dessert Berries, without sugar, frozen",
+   "Manufacturer - product label - country of origin": "Norske Dessertbær, Norway (berries from Poland)",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 1.87,
+   "Comment": 3
+ },
+ {
+   "Product": "Rock bramble, frozen, wild",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 8.51,
+   "Comment": 4
+ },
+ {
+   "Product": "Rowanberries, dried",
+   "Manufacturer - product label - country of origin": "The Norwegian Crop Research Institute, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 19.13,
+   "Comment": 5
+ },
+ {
+   "Product": "Rowanberries, dried",
+   "Manufacturer - product label - country of origin": "Norsk Øko?Urt BA, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 10.13,
+   "Comment": 5
+ },
+ {
+   "Product": "Rowanberries, wild",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 2.36,
+   "Comment": 4
+ },
+ {
+   "Product": "Sea buckthorn, berries",
+   "Manufacturer - product label - country of origin": "Denmark",
+   "Procured in": "Denmark",
+   "Antioxidant content in mmol per 100g": 2.21,
+   "Comment": 4
+ },
+ {
+   "Product": "Sea buckthorn, berries",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 4.58,
+   "Comment": 4
+ },
+ {
+   "Product": "Sour cherries, cultivated",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 7.14,
+   "Comment": 3
+ },
+ {
+   "Product": "Sour cherries, without stone, without sugar, frozen",
+   "Manufacturer - product label - country of origin": "Poland",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 3.3,
+   "Comment": 3
+ },
+ {
+   "Product": "Sour cherries, without stone, without sugar, frozen",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 6.07,
+   "Comment": 4
+ },
+ {
+   "Product": "Strawberries, Corona, cultivated",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 2.05,
+   "Comment": 3
+ },
+ {
+   "Product": "Strawberries, cultivated",
+   "Manufacturer - product label - country of origin": "  ",
+   "Procured in": "USA",
+   "Antioxidant content in mmol per 100g": 2.16,
+   "Comment": 6
+ },
+ {
+   "Product": "Strawberries, ”Honey,” cultivated",
+   "Manufacturer - product label - country of origin": "Norwegian University of Life Sciences",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 2.33,
+   "Comment": 5
+ },
+ {
+   "Product": "Strawberries, ”Senga Sengana”, cultivated",
+   "Manufacturer - product label - country of origin": "Norwegian University of Life Sciences",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 1.85,
+   "Comment": 5
+ },
+ {
+   "Product": "Strawberry, jam",
+   "Manufacturer - product label - country of origin": "Nora, Stabburet, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 0.64,
+   "Comment": 3
+ },
+ {
+   "Product": "Strawberry, jam, light",
+   "Manufacturer - product label - country of origin": "Nora, Stabburet, Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 0.68,
+   "Comment": 3
+ },
+ {
+   "Product": "Sweet cherries, cultivated",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 1.42,
+   "Comment": 3
+ },
+ {
+   "Product": "Wild strawberries",
+   "Manufacturer - product label - country of origin": "Norway",
+   "Procured in": "Norway",
+   "Antioxidant content in mmol per 100g": 5.44,
+   "Comment": 4
+ },
+ {
+   "Product": "Zereshk (Barberries, dried)",
+   "Manufacturer - product label - country of origin": "Iran",
+   "Procured in": "Iran",
+   "Antioxidant content in mmol per 100g": 27.3,
+   "Comment": 3
+ }
+]
